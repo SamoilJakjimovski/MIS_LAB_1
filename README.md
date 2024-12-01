@@ -1,4 +1,4 @@
-# flutter_application_1
+# Laboratory exercise 1 Clothing shop
 
 A new Flutter project.
 
